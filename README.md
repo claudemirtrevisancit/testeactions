@@ -1,2 +1,2 @@
 # testeactions
-Teste de Actions para githib
+Teste de Actions para github
